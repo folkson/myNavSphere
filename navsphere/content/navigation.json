@@ -94,7 +94,7 @@
           "title": "Yltv",
           "href": "https://yltv.netlify.app/",
           "description": "访问 yltv.netlify.app",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=yltv.netlify.app",
+          "icon": "",
           "enabled": true
         }
       ],
