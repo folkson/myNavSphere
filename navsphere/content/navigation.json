@@ -12,7 +12,7 @@
           "title": "QiReader - 优雅的全平台在线 RSS 阅读器",
           "href": "https://www.qireader.com.cn",
           "description": "美观、快速、全平台同步，可能是最好的网页版 RSS 阅读器",
-          "icon": "/assets/favicon_1755220912495.svg",
+          "icon": "",
           "enabled": true
         },
         {
