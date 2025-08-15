@@ -86,7 +86,7 @@
           "title": "moontv",
           "href": "https://ymoon.netlify.app",
           "description": "访问 ymoon.netlify.app",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ymoon.netlify.app",
+          "icon": "",
           "enabled": true
         },
         {
